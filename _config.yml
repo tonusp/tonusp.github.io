@@ -12,10 +12,6 @@ description: Storytelling geek vicar, on the verge of retirement
 avatar: https://raw.githubusercontent.com/tonusp/tonusp.github.io/master/images/thisisme.jpg
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c10ba0e603edddb0b5dd57158263b639c881d394
 #
 # Flags below are optional
 #
@@ -23,15 +19,15 @@ avatar: https://raw.githubusercontent.com/tonusp/tonusp.github.io/master/images/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: tonyprice01@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: tonusp/tonusp.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: godspelled
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
