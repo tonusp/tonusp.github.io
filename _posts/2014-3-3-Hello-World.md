@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Because I can!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Today - December 28, 2015 - I think I have begun to solve the problem of how to blog with Github. Thanks to [Barry Clark](barryclark/jekyll-now)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
