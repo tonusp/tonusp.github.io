@@ -3,7 +3,7 @@ layout: post
 title: Because I can!
 ---
 
-Today - December 28, 2015 - I think I have begun to solve the problem of how to blog with Github. Thanks to [Barry Clark](barryclark/jekyll-now)
+Today - December 28, 2015 - I think I have begun to solve the problem of how to blog with Github. Thanks to [Barry Clark](https://github.com/barryclark/jekyll-now)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
