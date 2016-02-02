@@ -5,7 +5,7 @@ title: Learning to shave again
 
 It felt like it was time for a new face; but disappointingly it turned out to be the same old one.
 
-![a new face](/images/newface.JPG "But the same old face" rotate:90)
+![a new face](/images/newface.JPG "But the same old face")
 
 Or in other words, I got fed up with the beard (though not with not having to shave) and decided to get rid of it.
 
