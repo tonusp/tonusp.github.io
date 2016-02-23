@@ -3,8 +3,6 @@ layout: post
 title: A History of Shaving
 ---
 
-A History of Shaving
-
 For most of my adult life I haven't shaved. I grew a moustache at 20, a full beard at 23, which I then wore (with two brief looks at the naked chin to make sure it was still there, before quickly growing the beard back again) until I was 50. At that time I looked like a caricature of a bald and bearded middle-aged clergyman. I no longer needed the appearance of maturity and gravitas I clearly thought I lacked in my 20s; I now concluded I looked mature enough, and shaved it off.
 
 After that I wet-shaved for a dozen years or so before getting tired of the fun-less scraping and scratching, and bought an electric shaver. Thereafter, less blood, but not so much in the way of close shaves.
