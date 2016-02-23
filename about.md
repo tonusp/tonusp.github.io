@@ -6,14 +6,11 @@ permalink: /about/
 
 So here's who I am. Storyteller, Wordsmith, Believer, Priest, Husband, Father, Blogger (occasionally), Seeker, Child, Lifelong-Learner, Mind-Traveller, wannabe Classicist, and wannabe Geek. "But not necessarily in the right order..."
 
-Born 2 August 1949 (In the first half of the last century!)
+Born 1949 (In the first half of the last century!)
 
 ## Educated
-[Oakthorpe Primary School](http://www.oakthorpe.enfield.sch.uk/), Tile Kiln Lane 1954-60
 
-[Latymer Grammar School](http://www.latymer.co.uk/), Haslebury Road, Edmonton N.9 1960-67
-
-If you were there at the same time or thereabouts, I'd love to hear from you!
+At a primary school and a secondary school in North London
 
 [Lincoln College, Oxford](http://www.lincoln.ox.ac.uk/) 1967-71 B.A. in Modern Languages (German and French)
 
