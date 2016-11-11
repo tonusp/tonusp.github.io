@@ -11,4 +11,4 @@ Well, I know Bradley of [the Personal Barber](http://www.thepersonalbarber.com/)
 
 For a monthly subscription, you get a new box of shaving supplies delivered each month. The first month's box contains a safety razor, brush, soap and blades; subsequent boxes contain a variety of different supplies (blades, soap, pre- and after-shave treatments) which are not easily obtainable on the High Street. They come from all around the world, ant the object is not only to give the shaver an opportunity to try out different products, but also to keep shaving 'fun'
 
-At the moment I still have a lot of supplies I've ordered online from elsewhere, but I mighe Personal Barber again when I've nearly finished those current supplies.
+At the moment I still have a lot of supplies I've ordered online from elsewhere, but I might try Personal Barber again when I've nearly finished those current supplies.
