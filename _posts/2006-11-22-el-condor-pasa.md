@@ -8,13 +8,20 @@ Today&#8217;s anniversary of the [assassination of President Kennedy](http://en.
 
 Where were you? when you first heard Simon and Garfunkel singing
 
-> I&#8217;d rather be a sparrow than a snail.//
-> Yes I would.//
-> If I could,//
-> I surely would.//
-> I&#8217;d rather be a hammer than a nail.//
-> Yes I would.//
-> If I only could,//
+> I&#8217;d rather be a sparrow than a snail.
+
+> Yes I would.
+
+> If I could,
+
+> I surely would.
+
+> I&#8217;d rather be a hammer than a nail.
+
+> Yes I would.
+
+> If I only could,
+
 > I surely would.
 
 I know I was in a [Kneipe](http://de.wikipedia.org/wiki/Kneipe) in Gronau, Westfalen, where I was spending a year out from my university course in Modern Languages, working as an English Lehrassistent in the local Realschule.

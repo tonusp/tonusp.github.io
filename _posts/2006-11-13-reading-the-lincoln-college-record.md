@@ -1,7 +1,6 @@
 ---
 title: Reading The Lincoln College Record
-date: 2006-11-13T21:45:49+00:00
-author: tony
+date: 2006-11-13
 layout: post
 ---
 That light tinkling noise you can hear, is the gentle shattering of illusions as I read in the latest edition of the Lincoln College Record, &#8220;The Myth of the Red Baron&#8221;. For as long as I&#8217;ve been connected with [Lincoln College](http://www.lincoln.ox.ac.uk/component/option,com_frontpage/Itemid,1/), it&#8217;s been known that there was once a von Richthofen at Lincoln. No one was quite clear about how, if at all, he was related to the famous [Red Baron](http://en.wikipedia.org/wiki/Manfred_von_Richthofen), the Great War flying ace. I was one of those who devoutly hoped that it was the Red Baron himself who studied there, or failing that at least a brother.
