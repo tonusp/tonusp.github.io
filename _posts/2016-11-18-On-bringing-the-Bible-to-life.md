@@ -5,7 +5,7 @@ title: On bringing the Bible to life
 
 Much as I love Bible Society, I'm still struggling with their present emphasis on what they call 'bringing the Bible to life'.
 
-Their latest sally is a little Christmas booklet called *The WELL GOOD News of Christmas. ('We hope that this fresh retelling brings the story to life for all ages')
+Their latest sally is a little Christmas booklet called *The WELL GOOD News of Christmas*. ('We hope that this fresh retelling brings the story to life for all ages')
 
 Here's the beginning of the page I opened at random:
 
@@ -26,7 +26,7 @@ An angel came to Mary, and gave her quite a fright.
 Get scared or jump,  
 God's going to give you a big belly bump.*
 
-> * Your belly bump's a baby  
+> *Your belly bump's a baby  
 And he will be the great one  
 Why not call him Jesus?  
 He really is God's son!*  
