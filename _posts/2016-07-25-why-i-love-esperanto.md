@@ -1,13 +1,6 @@
 ---
-id: 1685
-title: Why I love Esperanto
-date: 2016-07-25T16:22:16+00:00
-author: tony
 layout: post
-guid: http://www.godspell.org.uk/wordpress/?p=1685
-permalink: /?p=1685
-categories:
-  - Esperanto
+title: Why I love Esperanto
 ---
 At the Universala Kongreso de Esperanto in Nitra, Slovakia, the president of the Universal Esperanto Association Mark Fettes gave an inspirational opening address to Congress. Others may have translated it better or differently, but this is my Esperanto translation exercise for today.
 
