@@ -1,0 +1,66 @@
+---
+id: 1685
+title: Why I love Esperanto
+date: 2016-07-25T16:22:16+00:00
+author: tony
+layout: post
+guid: http://www.godspell.org.uk/wordpress/?p=1685
+permalink: /?p=1685
+categories:
+  - Esperanto
+---
+At the Universala Kongreso de Esperanto in Nitra, Slovakia, the president of the Universal Esperanto Association Mark Fettes gave an inspirational opening address to Congress. Others may have translated it better or differently, but this is my Esperanto translation exercise for today.
+
+Esteemed and honoured guests, dear members of Congress,
+
+“From the eternally warring world,” here we have arrived once again, “peaceful warriors”. There has been no lack of proofs in the past year, that our striving is still actual. Vast numbers of people around the world are suffering because of wars, persecutions, lack of the basic means of life. Even greater numbers are suffering because of social exclusion, intolerance, injustice. We in this hall are fortunate, amazingly fortunate. And – if I may slightly adapt a phrase from the world of picture strip heroes – with great good fortune comes great responsibility.
+
+Our congresses prove that human beings can meet together, without regard to anyone&#8217;s ethnic origin, native language, social class, or other differences. Our congresses prove the power of a neutral human language to bridge the barriers that divide us. Yes, everything that we experience at each step and each minute during the conference week. But Esperanto was not thought up only to give joy and enjoyment to those few speakers, who have been able to find the money or the time to travel to the congress. It is a means of changing the world.
+
+So I want to speak to you a little about that world, and about our contribution to it. And where better to begin, than here in [Nitra](http://www.nitra.eu/), the charming and alluring city, which is hosting us this year? Ancient cradle of Christianity, seat of powerful kings, long time centre of agriculture, more recently the nucleus of a growing electronic and auto industry, a city rich in culture and tourist attractions – Nitra clearly shows how a modern city can be established on the foundation of a complex past.
+
+Because you have probably already observed: from whatever direction you came to Nitra, whether from north or south, from east or west – you crossed borders between countries, cultures and languages. This beautiful and fertile plain, at the foot of the Western Carpathians, is also an historic crossroads of civilizations and peoples. At times in this region the Roman world confronted the German tribes, the arriving Slavs met the Franks of Charlemagne, the warlike Hungarians won, then lost a kingdom, the Muslim Ottomans struggled against the Christian princes, Protestant armies surged forward, Catholic armies back; the Hapsburg Empire rose and fell, the first democratic state of Czechs and Slovaks was nibbled away by fascism, and for 40 years after the Second World War, the Iron Curtain divided Eastern and Western Europe.
+
+It is easy to focus on these divisions and conflicts. They were real. Much blood has flowed here over the centuries. But the real miracle is this: that they did not last for ever. Whenever some armed force, or dogmatic creed drew a border on the earth, other forces – the liberating forces of ideas, trade, friendship and curiosity, of art and spirit – succeeded in crossing it, undermining it, transforming it into something else.
+
+Here is a story about that.
+
+Long ago in this region the state of Great Moravia came into being. This is the first Slavonic kingdom about which we have documentary evidence. Its first ruler was Prince Mojmir I; its centre was Nitra. At the invitation of Mojmir&#8217;s successor Ratislav, in the year 863 the Greek missionaries Cyril and Methodius came here, bringing not only the Christian faith, but also a system of writing which they worked out for the Slavonic languages. Because of their conviction, that religious truths should be communicated in the language of the people, the two brothers had to fight against priests, kings, bishops and popes. You could write an epic about their linguistic-political odyssey, which lasted to the end of their lives.
+
+By the usual standards, Cyril and Methodius were eventually defeated. Their disciples were driven out of Moravia, fleeing to the south to the territory of the Bulgarians; the Roman Church remained for a long time attached to the ancient liturgical languages, Hebrew, Greek and Latin. But that apparent defeat nevertheless planted seeds, which afterwards grew into the vast forest of sub- and eastern Slavonic literatures, still written today in alphabets adapted from that original script of Cyril and Methodius.
+
+What to my mind is remarkable in that story, is not simply the vastly expanding power of well-thought-out linguistic invention. Behind that lies a more profound idea: that language is a means of bringing together and empowering ordinary people. Even more importantly than the Cyrillic script itself, that idea would go on living more in European civilization. You will find it again in the Lutherans, insisting on the right of individuals even to read the Scriptures in their own language; you will find it in the movements of national liberation, insisting on the value of newspapers, literature and history written in the language of the people; you will find it in the movements for popular education in the 19th and 20th centuries, which would regard a vast growth in literacy in one&#8217;s own language as a basis for democracy. In fact, it is not possible to imagine modern Europe without that idea.
+
+Here then is the point I want to emphasise: that in this same region, where over the centuries battle after bloody battle was fought over boundaries of power, creed or nationality, there came to birth also an idea with potent liberating and unifying strength. One does not have to accept the governing customs about language and communication; one can, by human genius, create new resources, new imagined forms of community, new norms of human solidarity and human freedom. For let us remember, that Cyril and Methodius were motivated essentially by an idea of human brotherhood. For them, Christianity superseded all local identities; under its roof, all human beings would be equal and of equal value.
+
+[Zamenhof](https://eo.wikipedia.org/wiki/L._L._Zamenhof), the author of Esperanto, born only 800 km north of here, inherited from his cultural environment not only the Cyrillic alphabet, but also this idea. We see in his works a growing emphasis, that the most profound goal of Esperanto consists in its ability to raise people above the limited vision of their ethnic and social identity. But for him, living a thousand years after Cyril and Methodius, the role of individual religions in promoting human brotherhood had already proved inadequate, in the same way as the role of individual languages had done. In his Declaration of Universal Humanity, which appeared in 1913, he wrote:
+
+> I am a human being, and I regard all of humanity as one family; the dividedness of humanity into different mutually hostile races and racial-religious communities, I regard as one of the greatest misfortunes, which sooner or later must disappear and whose disappearance I must accelerate with all my power.
+> 
+> I see in every human being just a human being, and I value every human being only according to their personal worthiness and actions. Every kind of offence against, or oppression of, a human being on account of their belonging to another race, another language, or another social class from me, I regard as a barbarity.
+
+In the world of 1913, those words sounded radical. But now listen to this other text, which appeared 35 years later:
+
+> Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
+> 
+> Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,
+
+Doesn&#8217;t that sound like Zamenhof?
+
+> Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,
+> 
+> Whereas it is essential to promote the development of friendly relations between nations,
+> 
+> Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom… 
+
+By means of the Universal Declaration of Human Rights, the world received a new formula to express the value of every single human being. But that could be attained, only by travelling that long bloody road, whose traces are found also here, in Nitra. And the roots of universal human rights are also the roots of Esperanto – of that neutral human language, which today unites us.
+
+For the theme of this year&#8217;s Congress, we have chosen explicitly to link two ideas: social justice and linguistic justice. The first is largely well-known. We all understand, that different people experience marginalisation and exclusion in our contemporary societies, that fundamental necessities such as housing, food, clothing, clean water, health care and education are unequally distributed; and that these situations cannot be changed only by laws or parliamentary decisions, but sometimes it is necessary to change the structures of society itself. The Universal Declaration of Human Rights, and other related declarations, such as the International Covenant on Civil and Political Rights, and the International Covenant on Economic, Social and Cultural Rights – both 50 years old this December – help to make concrete our ideas about how a truly just society would look. Even if that society is not fully realizable, the work of trying to realize it is in itself valuable and necessary. That is an essential attribute of social justice.
+
+But the second part of our theme, linguistic justice – that is a less common concept. Language is such a fundamental part of the structure of a society, that it is often invisible, like water to a fish. We often fail to notice it when other people experience marginalisation or exclusion because of language, in the same way as we fail to perceive how language is a part of those essential social services like health care or education. And yet try to imagine, how you would feel if in a clinic or hospital no one understood the language that you speak, or if in school the teacher addressed you in a language you did not know. Language is a profound part of our humanity, and we cannot feel fully human, if our language is not met with recognition, respect and response.
+
+That realization is found at the basis of the Esperanto movement. We are working to build a world society, in which every person can be fully human, including linguistically. Even if that world society is not fully realizable, the work of trying to realize it is in itself valuable and necessary. We are convinced, that a neutral human language brings an essential contribution to that work. That does not mean, that we have an answer to every question. We alone cannot say, how to better organize our societies to bring about linguistic justice in primary health care or in school, for example. But we insist on posing those questions. We insist, that linguistic injustice does not become more just, if one ignores it or declares it unobtainable. We insist that one can, by human ingenuity, create new measures for the protection and empowerment of people, and that these measures can also be linguistic. We insist that our language Esperanto is such a measure.
+
+About the power of that measure I do not need to convince you, dear listeners. You indeed have gathered here to experience the unique ethos of the world congress, in which we meet as human with human. Enjoy the week! But I invite you also to think about the very many people, who every day experience the lack of linguistic justice, who every day experience the lack of social justice. If those thoughts draw you to one of the meetings about the theme of the congress, or to other sessions about related topics, so much the better! Our congresses should be not only entertaining but also educational, not only friendly but also activating. We have much to do. I hope, that the congress week will give you many ideas, energy and inspiration for that great work.
+
+(The original of this talk can be found on the website of [the Universal Congress](http://uea.org/l/teko/agado/FESTPAROLADO_DE_LA_PREZIDANTO_DE_UEA_-_2016.pdf).)
