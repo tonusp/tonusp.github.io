@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So, what *was* school good for?
+title: So, what was school good for?
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YR5ApYxkU-U" frameborder="0" allowfullscreen></iframe>
@@ -14,9 +14,9 @@ And yes, I don’t remember being a child, still less a teenager, with any sense
 The things I remember about school days, are predominantly fear and boredom. I wasn’t afraid of the teachers; mostly I trusted them because I learned how to cope (obedience - at least when they were looking - and jumping through the academic hoops). But I was afraid of just about everything else: playtime, games, other children, being made fun of, looking foolish in the eyes of my peers… Often, being afraid of going to and from school. This was the dangerous place where you could easily become the prey of teachers if you weren’t wearing your school cap, or of other pupils if you were. Or, you ran the risk of meeting pupils from one of the other schools in town, especially the boys from Huxley Secondary Modern who were said to hate us, be constantly lying in ambush to attack us, taunt us with their hate song:
 
 
-“Latymer loonies
-Smell like cheese;
-D’you wanna go to Huxley?
+“Latymer loonies  
+Smell like cheese;  
+D’you wanna go to Huxley?  
 YES, PLEASE!”
 
 
