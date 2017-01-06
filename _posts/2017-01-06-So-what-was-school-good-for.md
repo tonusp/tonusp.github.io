@@ -3,7 +3,9 @@ layout: post
 title: So, what was school good for?
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YR5ApYxkU-U" frameborder="0" allowfullscreen></iframe>
+![school wasn't like this](/images/education.jpg)
+
+*(From Pink Floyd's classic [music video](https://youtu.be/YR5ApYxkU-U))*
 
 It turns out several Web friends also still have *their* old school reports… so I have quietly refiled mine. (Better not tell Alison.) But that blog post about why I kept mine? and speculating that it was because being Top of the Class was the only thing I was any good at, the only thing that made me feel I was any good at anything… it all looks a bit bleak, doesn’t it? It looks as if I had a miserable, unhappy childhood?
 
