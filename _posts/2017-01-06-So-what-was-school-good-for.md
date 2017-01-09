@@ -2,7 +2,6 @@
 layout: post
 title: So, what was school good for?
 ---
-
 ![school wasn't like this](/images/education.jpg)
 
 *(From Pink Floyd's classic [music video](https://youtu.be/YR5ApYxkU-U))*
