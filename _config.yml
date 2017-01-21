@@ -22,7 +22,7 @@ footer-links:
   email: tonyprice01@gmail.com
   facebook: tony.price.7712
   flickr:
-  github: tonusp/tonusp.github.io
+  github: tonusp
   instagram:
   linkedin:
   pinterest:
@@ -30,7 +30,7 @@ footer-links:
   twitter: godspelled
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: tony # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
