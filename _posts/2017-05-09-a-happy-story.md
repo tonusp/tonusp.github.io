@@ -1,3 +1,4 @@
+## A recent email conversation
 
 To Doreen Harding, Vice Chair of the College Amateur Operatic Society 
 
@@ -67,28 +68,28 @@ Nino Rota & Emery Bonett
 Sung by Tito Gobbi in the film "The Glass Mountain"
 
 
-Since you must go my love,
-Take with you on your way
-The song of the lark at dawn.
-Take all the flow'rs of May,
-The blossom tasselled bough
-Means only heartbreak now
+Since you must go my love,  
+Take with you on your way  
+The song of the lark at dawn.  
+Take all the flow'rs of May,  
+The blossom tasselled bough  
+Means only heartbreak now  
 I walk in the dark alone.
 
-Take the sun from the sky,
-And take the moon from on high.
-Take the laughter and delight,
-All of heaven's light,
-For after you have gone
-Oh! How shall I need the sun?
+Take the sun from the sky,  
+And take the moon from on high.  
+Take the laughter and delight,  
+All of heaven's light,  
+For after you have gone  
+Oh! How shall I need the sun?  
 
-Take the sun from the sky,
-And take the moon from on high
-For what-so-e'er you take
-You leave my heart to break
-And when my life is done
-Oh how shall I need the sun?
-Take the sun.
+Take the sun from the sky,  
+And take the moon from on high  
+For what-so-e'er you take  
+You leave my heart to break  
+And when my life is done  
+Oh how shall I need the sun?  
+Take the sun.  
 
 Copyright 1949
 Published by Keith Prowse & Co Ltd
@@ -96,7 +97,7 @@ Published by Keith Prowse & Co Ltd
 
 Trust this helps you.  It is a beautful song.
 
-Kind regards
+Kind regards  
 Doreen
 
 ---
