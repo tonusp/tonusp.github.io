@@ -32,9 +32,9 @@ Curate of [Wootton](http://www.stmaryswootton.org.uk/), Bedfordshire, and Minist
 
 Team Vicar of [St Mary's Lydiard Tregoze](http://stmaryslydiardtregoze.org.uk/) in the Lydiards Team Ministry, West Swindon, 1985-90
 
-Vicar of Marston, Oxford from 1991
+Vicar of Marston, Oxford from 1991 until August 2016.
 
-Vicar of [Marston with Elsfield](http://www.stnicholasmarston.org.uk/) from 1995
+Vicar of [Marston with Elsfield](http://www.stnicholasmarston.org.uk/) from 1995 until August 2016.
 
 And Rural Dean of Cowley from 1997 to 2002. I've happily handed this task on to a successor, so that (the theory is) I can give more time to what I want to do.
 
