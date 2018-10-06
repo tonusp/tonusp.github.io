@@ -11,8 +11,5 @@ fields:
 - type: text
   name: title
   label: title
-- type: textarea
-  name: add_text_here
-  label: add text here
 pages:
 - _posts/2018-10-06-because-i-can.md
