@@ -7,3 +7,4 @@ So now I've added a post to the static blog using forestry.io. But I want to see
 
 Here goes.
 
+Very quick response onto the app.forestry.io page... the problem before was then pulling it back into my computer.
