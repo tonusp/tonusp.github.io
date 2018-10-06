@@ -1,0 +1,16 @@
+---
+label: FrontMatter1
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  hidden: false
+  label: layout
+  name: title
+  default: post
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: add_text_here
+  label: add text here
